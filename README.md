@@ -170,11 +170,6 @@ The prototype can be evaluated using the following tests:
 - **Motor Driver:** L298N
 - **Interfaces:** GPIO, I2C
 
-## Author
-
-**Bandi Naveen Reddy**
-
-GitHub: [naveen-reddy16](https://github.com/naveen-reddy16)
 
 ## Disclaimer
 
